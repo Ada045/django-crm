@@ -1,0 +1,17 @@
+.git
+.venv/
+venv/
+venv311/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.env
+.env.*
+docs/
+*.md
+staticfiles/
+media/
+crm_db
+.coverage
+htmlcov/
