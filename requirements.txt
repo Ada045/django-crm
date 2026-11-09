@@ -14,7 +14,7 @@
     # mysqlclient==2.2.7  # Only needed if using MySQL (not SQLite). Install MySQL client libraries first.
     numpy==2.3.5
     openpyxl==3.1.5
-    pandas==2.3.3
+    pandas==3.1.1
     polib==1.2.0
     python-dateutil==2.9.0.post0
     pytz==2025.2
